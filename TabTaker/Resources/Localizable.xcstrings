@@ -1,118 +1,311 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "%lld" : {
+
+    },
     "brand" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Who pays?" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qui paie ?" } }
-      }
-    },
-    "privacy.policy" : {
-      "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Privacy Policy" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Politique de confidentialité" } }
-      }
-    },
-    "menu.ad_preferences" : {
-      "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Ad preferences" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Préférences publicitaires" } }
-      }
-    },
-    "menu.ad_preferences.description" : {
-      "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Manage consent and advertising choices" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Gérez le consentement et les choix publicitaires" } }
-      }
-    },
-    "menu.ad_preferences.unavailable" : {
-      "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Ad preferences are not required on this device" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Aucune préférence publicitaire n’est requise sur cet appareil" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Who pays?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qui paie ?"
+          }
+        }
       }
     },
     "menu.about_ads" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "About ads" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "À propos des publicités" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About ads"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À propos des publicités"
+          }
+        }
       }
     },
     "menu.about_ads.description" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Ads appear between games" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Les pubs apparaissent entre les parties" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ads appear between games"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les pubs apparaissent entre les parties"
+          }
+        }
       }
     },
     "menu.about_ads.message" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "value", "value" : "Ads may appear between games, no more than once every four completed rounds." } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Les pubs peuvent apparaître entre les parties, au maximum une fois toutes les quatre parties terminées." } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "value",
+            "value" : "Ads may appear between games, no more than once every four completed rounds."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les pubs peuvent apparaître entre les parties, au maximum une fois toutes les quatre parties terminées."
+          }
+        }
+      }
+    },
+    "menu.ad_preferences" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad preferences"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Préférences publicitaires"
+          }
+        }
+      }
+    },
+    "menu.ad_preferences.description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage consent and advertising choices"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gérez le consentement et les choix publicitaires"
+          }
+        }
+      }
+    },
+    "menu.ad_preferences.unavailable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad preferences are not required on this device"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune préférence publicitaire n’est requise sur cet appareil"
+          }
+        }
       }
     },
     "menu.done" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Done" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Fermer" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermer"
+          }
+        }
       }
     },
     "menu.open" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Open menu" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Ouvrir le menu" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open menu"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir le menu"
+          }
+        }
       }
     },
     "menu.privacy_policy.description" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Read how your data is handled" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Découvrez le traitement de vos données" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Read how your data is handled"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Découvrez le traitement de vos données"
+          }
+        }
       }
     },
     "menu.title" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Menu" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Menu" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu"
+          }
+        }
+      }
+    },
+    "privacy.policy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Politique de confidentialité"
+          }
+        }
       }
     },
     "status.minimum_players" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "At least 2 players" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Au moins 2 joueurs" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At least 2 players"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Au moins 2 joueurs"
+          }
+        }
       }
     },
     "status.remove_fingers" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Remove fingers to play again" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Retirez les doigts pour rejouer" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove fingers to play again"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retirez les doigts pour rejouer"
+          }
+        }
       }
     },
     "status.suspense" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Suspense…" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Suspense…" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suspense…"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suspense…"
+          }
+        }
       }
     },
     "title.add_finger" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "One more finger!" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Encore un doigt !" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One more finger!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encore un doigt !"
+          }
+        }
       }
     },
     "title.hold_still" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Hold still…" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Ne bougez plus…" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold still…"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne bougez plus…"
+          }
+        }
       }
     },
     "title.place_fingers" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "Place your fingers" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Posez vos doigts" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place your fingers"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posez vos doigts"
+          }
+        }
       }
     },
     "title.winner" : {
       "localizations" : {
-        "en" : { "stringUnit" : { "state" : "translated", "value" : "You're paying!" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "C’est toi qui paies !" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You're paying!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C’est toi qui paies !"
+          }
+        }
       }
     }
   },
